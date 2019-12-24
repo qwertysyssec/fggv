@@ -1,0 +1,7 @@
+#include "fg.hpp"
+
+int main() try{
+
+    return 0;
+}
+catch(...){ std::terminate();}
